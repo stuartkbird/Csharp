@@ -1,0 +1,18 @@
+E:\IF buttonClicked\IF buttonClicked\bin\Debug\IF buttonClicked.exe.config
+E:\IF buttonClicked\IF buttonClicked\bin\Debug\IF buttonClicked.exe
+E:\IF buttonClicked\IF buttonClicked\bin\Debug\IF buttonClicked.pdb
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF_buttonClicked.Form1.resources
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF_buttonClicked.Properties.Resources.resources
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF buttonClicked.csproj.GenerateResource.Cache
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF buttonClicked.csproj.CoreCompileInputs.cache
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF buttonClicked.exe
+E:\IF buttonClicked\IF buttonClicked\obj\Debug\IF buttonClicked.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\bin\Debug\IF buttonClicked.exe.config
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\bin\Debug\IF buttonClicked.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\bin\Debug\IF buttonClicked.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF buttonClicked.csprojResolveAssemblyReference.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF_buttonClicked.Form1.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF_buttonClicked.Properties.Resources.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF buttonClicked.csproj.GenerateResource.Cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF buttonClicked.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\IF buttonClicked-Y\IF buttonClicked\obj\Debug\IF buttonClicked.pdb
