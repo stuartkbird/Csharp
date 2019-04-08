@@ -1,0 +1,19 @@
+E:\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+E:\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+E:\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+E:\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\InvoiceTotal-Y\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
