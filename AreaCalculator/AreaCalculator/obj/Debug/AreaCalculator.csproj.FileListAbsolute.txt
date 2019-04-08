@@ -1,0 +1,19 @@
+E:\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+E:\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe
+E:\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csprojResolveAssemblyReference.cache
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.Form1.resources
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.Properties.Resources.resources
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.GenerateResource.Cache
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.exe
+E:\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.Form1.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.Properties.Resources.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.csproj.GenerateResource.Cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\AreaCalculatory-Y\AreaCalculator\obj\Debug\AreaCalculator.pdb
