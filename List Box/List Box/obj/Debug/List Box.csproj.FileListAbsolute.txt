@@ -1,0 +1,10 @@
+E:\List Box\List Box\bin\Debug\List Box.exe.config
+E:\List Box\List Box\bin\Debug\List Box.exe
+E:\List Box\List Box\bin\Debug\List Box.pdb
+E:\List Box\List Box\obj\Debug\List Box.csprojResolveAssemblyReference.cache
+E:\List Box\List Box\obj\Debug\List_Box.Form1.resources
+E:\List Box\List Box\obj\Debug\List_Box.Properties.Resources.resources
+E:\List Box\List Box\obj\Debug\List Box.csproj.GenerateResource.Cache
+E:\List Box\List Box\obj\Debug\List Box.csproj.CoreCompileInputs.cache
+E:\List Box\List Box\obj\Debug\List Box.exe
+E:\List Box\List Box\obj\Debug\List Box.pdb
