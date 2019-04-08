@@ -1,0 +1,10 @@
+E:\O's and X's\O's and X's\bin\Debug\O's and X's.exe.config
+E:\O's and X's\O's and X's\bin\Debug\O's and X's.exe
+E:\O's and X's\O's and X's\bin\Debug\O's and X's.pdb
+E:\O's and X's\O's and X's\obj\Debug\O's and X's.csprojResolveAssemblyReference.cache
+E:\O's and X's\O's and X's\obj\Debug\O_s_and_X_s.Form1.resources
+E:\O's and X's\O's and X's\obj\Debug\O_s_and_X_s.Properties.Resources.resources
+E:\O's and X's\O's and X's\obj\Debug\O's and X's.csproj.GenerateResource.Cache
+E:\O's and X's\O's and X's\obj\Debug\O's and X's.csproj.CoreCompileInputs.cache
+E:\O's and X's\O's and X's\obj\Debug\O's and X's.exe
+E:\O's and X's\O's and X's\obj\Debug\O's and X's.pdb
