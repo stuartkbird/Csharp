@@ -1,0 +1,20 @@
+E:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\bin\Debug\Calculator.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\College\Bedford College\Programming in C# - Introduction\Calculator-Y\Calculator\obj\Debug\Calculator.pdb
