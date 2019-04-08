@@ -1,0 +1,10 @@
+E:\Simple Game Program\Simple Game Program\bin\Debug\Simple Game Program.exe.config
+E:\Simple Game Program\Simple Game Program\bin\Debug\Simple Game Program.exe
+E:\Simple Game Program\Simple Game Program\bin\Debug\Simple Game Program.pdb
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple Game Program.csprojResolveAssemblyReference.cache
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple_Game_Program.frmSimpleGame.resources
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple_Game_Program.Properties.Resources.resources
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple Game Program.csproj.GenerateResource.Cache
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple Game Program.csproj.CoreCompileInputs.cache
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple Game Program.exe
+E:\Simple Game Program\Simple Game Program\obj\Debug\Simple Game Program.pdb
