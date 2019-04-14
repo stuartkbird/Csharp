@@ -1,0 +1,19 @@
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.exe.config
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.exe
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.pdb
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.Form1.resources
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.Properties.Resources.resources
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.csproj.GenerateResource.cache
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.csproj.CoreCompileInputs.cache
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.exe
+C:\Users\Stuart\Documents\Visual Studio 2017\Projects\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.exe.config
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\bin\Debug\f1_street_circuit.pdb
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.csprojAssemblyReference.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.Form1.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.Properties.Resources.resources
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.csproj.GenerateResource.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.csproj.CoreCompileInputs.cache
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.exe
+C:\Users\Stuart\Desktop\Work, College and Home Studies\Home Studies\Red Bull Racing\f1_street_circuit\f1_street_circuit\obj\Debug\f1_street_circuit.pdb
